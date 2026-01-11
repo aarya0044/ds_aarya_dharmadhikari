@@ -1,5 +1,8 @@
 # Trader Behavior Analysis Based on Market Sentiment
 
+**Google Colab Notebook:** https://colab.research.google.com/drive/1A2vgyQkMJ9P6zcQujBIH8_N2kBkG-R5X?usp=sharing
+
+
 ## Overview
 This project analyzes the relationship between trader behavior and Bitcoin market sentiment using historical trade data from Hyperliquid and the Bitcoin Fear & Greed Index.  
 The goal is to understand how market sentiment (Fear vs Greed) influences trading activity, risk-taking, and performance.
