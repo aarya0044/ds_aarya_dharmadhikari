@@ -35,3 +35,21 @@ Both datasets were aligned at a daily level for analysis.
 ---
 
 ## Project Structure
+ds_aarya_dharmadhikari/
+├── notebook_1.ipynb # Google Colab notebook (main analysis)
+├── csv_files/ # Processed and merged datasets
+├── outputs/ # EDA plots and visual outputs
+├── ds_report.pdf # Final summarized report
+└── README.md
+
+---
+
+## Notes
+- All analysis was performed in Google Colab
+- Notebook access is set to "Anyone with the link can view"
+- This project is part of the Junior Data Scientist hiring assignment
+
+---
+
+## Author
+**Aarya Dharmadhikari**
