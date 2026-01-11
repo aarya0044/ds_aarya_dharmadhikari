@@ -15,10 +15,6 @@ The goal is to understand how market sentiment (Fear vs Greed) influences tradin
 
 Both datasets were aligned at a daily level for analysis.
 
-## Data Availability Note
-Due to GitHub file size limitations, large processed CSV files are not uploaded.
-All data processing steps are fully reproducible via the Google Colab notebook.
-
 ---
 
 ## Methodology
@@ -52,6 +48,12 @@ ds_aarya_dharmadhikari/
 - All analysis was performed in Google Colab
 - Notebook access is set to "Anyone with the link can view"
 - This project is part of the Junior Data Scientist hiring assignment
+
+---
+
+## Data Availability Note
+Due to GitHub file size limitations, large processed CSV files are not uploaded.
+All data processing steps are fully reproducible via the Google Colab notebook.
 
 ---
 
