@@ -15,6 +15,10 @@ The goal is to understand how market sentiment (Fear vs Greed) influences tradin
 
 Both datasets were aligned at a daily level for analysis.
 
+## Data Availability Note
+Due to GitHub file size limitations, large processed CSV files are not uploaded.
+All data processing steps are fully reproducible via the Google Colab notebook.
+
 ---
 
 ## Methodology
